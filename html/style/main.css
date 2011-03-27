@@ -1,0 +1,10 @@
+body {
+	width: 100%;
+	background-color: yellow;
+}
+
+div#container {
+	width: 1024px;
+	margin: auto;
+	text-align: center;
+}
