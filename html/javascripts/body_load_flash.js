@@ -1,0 +1,22 @@
+AC_FL_RunContent(
+	'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
+	'width', '1024',
+	'height', '371',
+	'src', 'Neighborhood',
+	'quality', 'high',
+	'pluginspage', 'http://www.adobe.com/go/getflashplayer',
+	'align', 'middle',
+	'play', 'true',
+	'loop', 'true',
+	'scale', 'showall',
+	'wmode', 'window',
+	'devicefont', 'false',
+	'id', 'Neighborhood',
+	'bgcolor', '#000000',
+	'name', 'Neighborhood',
+	'menu', 'true',
+	'allowFullScreen', 'false',
+	'allowScriptAccess','sameDomain',
+	'movie', 'Neighborhood',
+	'salign', ''
+	); //end AC code
